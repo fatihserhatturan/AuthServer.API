@@ -35,6 +35,6 @@ In summary, an authentication server service is a critical element in the realm 
 ## Used Technologies
 
 
-[![efcore](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/efcore.jpeg)](http://mongoosejs.com/), [![identityserver](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/identityserver.png)](http://expressjs.com///),[![automapper](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/automapper.png)](https://www.npmjs.com/),[![postman](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/postman.png)](https://www.npmjs.com/),[![swagger](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/swagger.png)](https://www.npmjs.com/)
+[![efcore](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/efcore.jpeg)](https://www.entityframeworktutorial.net/), [![identityserver](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/identityserver.png)](https://identityserver4.readthedocs.io/en/latest/#),[![automapper](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/automapper.png)](https://automapper.org/),[![postman](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/postman.png)](https://www.postman.com/),[![swagger](https://github.com/fatihserhatturan/AuthServer.API/blob/master/images/swagger.png)](https://swagger.io/)
 
   
