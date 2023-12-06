@@ -21,9 +21,6 @@ namespace MiniApp2.API.Controllers
 
             var userIdClaim = User.Claims.FirstOrDefault(x => x.Type == ClaimTypes.NameIdentifier);
 
-            //veri tabanında  userId veya userName alanları üzerinden gerekli dataları çek
-
-            // stockId stockQuantity  Category  UserId/UserName
 
             return Ok($"Invoice işlemleri =>  UserName: {userName }- UserId:{userIdClaim.Value}");
         }
