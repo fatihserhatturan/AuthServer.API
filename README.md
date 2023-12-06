@@ -31,7 +31,7 @@ Once the user's identity is confirmed, the authentication server service generat
 
 This service often employs industry-standard security protocols and encryption techniques to protect sensitive user data and credentials, ensuring that they are stored securely and transmitted in a safe manner. It also keeps track of user accounts, roles, and permissions, enabling administrators to manage user access rights effectively.
 
-In summary, an authentication server service is a critical element in the realm of digital security, identity management, and access control. It facilitates the secure verification of user identities and the enforcement of access policies, thereby safeguarding sensitive data and ensuring that only authorized users can access specific resources or features within a network or application..
+In summary, an authentication server service is a critical element in the realm of digital security, identity management, and access control. It facilitates the secure verification of user identities and the enforcement of access policies, thereby safeguarding sensitive data and ensuring that only authorized users can access specific resources or features within a network or application.
 ## Used Technologies
 
 
